@@ -24,6 +24,7 @@
 
     <Button
         android:id="@+id/btnweb"
+        style="@style/btnOK"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -39,6 +40,7 @@
 
     <Button
         android:id="@+id/btnmap"
+        style="@style/btnOK"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -53,6 +55,7 @@
 
     <Button
         android:id="@+id/btnsearch"
+        style="@style/btnOK"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
